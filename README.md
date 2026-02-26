@@ -190,8 +190,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📅 Built With ❤️
 
-> **Author**: Satyajit  
-> **Built**: January 2026  
+> **Author**: Venkatesh  
+> **Built**: february 2026  
 > **Powered by**: [xAI Grok-4](https://x.ai)
 
 ---
